@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amandahawkinsa.github.io/sitemap.xml.gz
